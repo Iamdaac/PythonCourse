@@ -1,0 +1,9 @@
+states_of_america = ["Delaware", "Pennsylvania", "New Jersey"]
+# -1 shows the last item on the list
+
+# states_of_america[1] = "Pencilvania" we can edit an item on the list by simple call it and give another value
+
+# .append(a) insert a new value at the end of the list
+states_of_america.append("Florida")
+
+print(states_of_america)
